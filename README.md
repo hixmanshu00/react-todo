@@ -51,16 +51,16 @@ react-todo-app/
 ## Setup
 
 1. **Clone the repository:**
-git clone https://github.com/hixmanshu00/react-todo.git
-cd react-todo
+- git clone https://github.com/hixmanshu00/react-todo.git
+- cd react-todo
 
 2. **Install dependencies::**
-npm install
+- npm install
 
 ## Usage
 1. **Run the application:**
-npm start
-Your Todo app should now be accessible at http://localhost:3000.
+- npm start
+- Your Todo app should now be accessible at http://localhost:3000.
 
 
 ## Screenshots
