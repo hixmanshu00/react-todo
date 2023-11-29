@@ -24,23 +24,24 @@ A robust Todo application built with React.js, featuring a context for managing 
 
 The project follows a modular structure:
 
-react-todo-app/.
-|-- src/ .
-| |-- components/ .
-| | |-- Task.jsx .
-| | |-- Sidebar.jsx .
-| |-- context/ .
-| | |-- TodoContext.js .
-| |-- pages/ .
-| | |-- Home.jsx .
-| | |-- AddTask.jsx .
-| | |-- EditTask.jsx .
-| |-- App.js .
-| |-- index.js .
-| |-- index.css .
-|-- package.json .
-|-- tailwind.config.js .
-|-- README.md .
+react-todo-app/
+|-- src/
+|   |-- components/
+|   |   |-- Task.jsx
+|   |   |-- Sidebar.jsx
+|   |-- context/
+|   |   |-- TodoContext.js
+|   |-- pages/
+|   |   |-- Home.jsx
+|   |   |-- AddTask.jsx
+|   |   |-- EditTask.jsx
+|   |-- App.js
+|   |-- index.js
+|   |-- index.css
+|-- package.json
+|-- tailwind.config.js
+|-- README.md
+
 
 - `components/`: Contains the reusable `Task` component and `Sidebar` component.
 - `context/`: Manages the global state and functions related to todos.
