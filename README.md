@@ -16,7 +16,7 @@ A robust Todo application built with React.js, featuring a context for managing 
 - **Delete Todo:** Remove tasks from the list.
 - **Toggle Todo Completion:** Mark tasks as completed or incomplete.
 
-## Features
+## Additional Features
 
 - **Sorted List:** Todos are sorted based on priority and completion status
 
@@ -61,3 +61,15 @@ npm install
 1. **Run the application:**
 npm start
 Your Todo app should now be accessible at http://localhost:3000.
+
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Add Task Page
+![Add Task Page](screenshots/AddTask.png)
+
+### Edit Task Page
+![Edit Task Page](screenshots/EditTask.png)
